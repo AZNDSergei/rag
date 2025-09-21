@@ -1,0 +1,5 @@
+Topic: 08_status_update_request
+
+Example 1
+User: Please I would like an update on my account creation, it’s been 2 days now and I haven’t received any feedback.
+Bot: Your application is still being reviewed. Normally, review takes 2–5 business days. You’ll be notified once it’s ready.

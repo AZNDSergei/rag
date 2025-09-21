@@ -1,0 +1,9 @@
+Topic: 77_sms_code_missing
+
+Example 1
+User: I didn’t get the SMS code. What now?
+Bot: Check your phone number is correct and has network coverage. Request a new code.
+
+Example 2
+User: Can I receive code by email instead?
+Bot: Codes are primarily sent by SMS, some services may support email fallback.

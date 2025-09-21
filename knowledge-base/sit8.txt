@@ -1,0 +1,5 @@
+Topic: 09_verification_time
+
+Example 1
+User: How long will it take for the account I created to be verified?
+Bot: Verification typically takes 2–5 business days, depending on volume and compliance checks.

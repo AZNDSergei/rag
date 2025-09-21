@@ -1,0 +1,9 @@
+Topic: 80_business_online_account
+
+Example 1
+User: Can I open a business account online?
+Bot: Yes, Ecobank allows online initiation of business accounts, but document submission and verification may require branch follow‑up.
+
+Example 2
+User: What documents are needed for business accounts?
+Bot: Business registration, tax ID, and IDs for signatories are required.

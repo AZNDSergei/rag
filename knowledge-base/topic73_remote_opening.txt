@@ -1,0 +1,9 @@
+Topic: 73_remote_opening
+
+Example 1
+User: Can I open an account fully online?
+Bot: Yes, many accounts can be opened remotely on the https://aop.ecobank.com without branch visits.
+
+Example 2
+User: Is a video call required?
+Bot: In some cases, remote video KYC is used for identity verification.

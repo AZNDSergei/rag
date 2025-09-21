@@ -1,0 +1,9 @@
+Topic: 66_birthdate_mismatch
+
+Example 1
+User: The birthdate on my form and ID don’t match.
+Bot: Please correct the application form to match your official ID.
+
+Example 2
+User: Will small errors cause rejection?
+Bot: Yes, mismatched birthdates require clarification before approval.

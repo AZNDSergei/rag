@@ -1,0 +1,9 @@
+Topic: 70_no_utility_bill
+
+Example 1
+User: I don’t have a utility bill. What can I use?
+Bot: You can provide a tenancy agreement, bank statement, or certificate of residence.
+
+Example 2
+User: Can I use my employer’s letter?
+Bot: In some cases, an employer letter confirming address is accepted.

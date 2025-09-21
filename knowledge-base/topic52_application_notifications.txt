@@ -1,0 +1,9 @@
+Topic: 52_application_notifications
+
+Example 1
+User: Will I get SMS updates on my application?
+Bot: Yes, Ecobank sends SMS or email notifications at each stage of the review.
+
+Example 2
+User: I didn’t receive any update after submission.
+Bot: Check that your phone number and email are correct. If not, contact support.

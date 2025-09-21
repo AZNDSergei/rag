@@ -1,0 +1,9 @@
+Topic: 74_passport_validity
+
+Example 1
+User: My passport expires in 2 months. Can I still use it?
+Bot: IDs must be valid. If close to expiry, you may be asked to renew.
+
+Example 2
+User: Is an expired ID accepted?
+Bot: No, only valid IDs are accepted for account opening.

@@ -1,0 +1,9 @@
+Topic: 49_sanctions_check
+
+Example 1
+User: My application is under sanctions review. What does it mean?
+Bot: Ecobank must check applicants against international sanction lists. If flagged, processing may be delayed.
+
+Example 2
+User: Can I speed up a sanctions review?
+Bot: Unfortunately no, this step is mandatory for compliance and must be completed before approval.

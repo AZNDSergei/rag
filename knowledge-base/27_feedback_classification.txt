@@ -1,0 +1,201 @@
+Topic: 27_feedback_classification
+
+Example 1
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 2
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 3
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 4
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 5
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 6
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 7
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 8
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 9
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 10
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 11
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 12
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 13
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 14
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 15
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 16
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 17
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 18
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 19
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 20
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 21
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 22
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 23
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 24
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 25
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 26
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 27
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 28
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 29
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 30
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 31
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 32
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 33
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 34
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 35
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 36
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 37
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 38
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 39
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.
+
+Example 40
+- Positive: compliments.
+- Neutral: suggestions.
+- Negative: complaints.

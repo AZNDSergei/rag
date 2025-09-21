@@ -1,0 +1,9 @@
+Topic: 03_phone_number_and_account
+
+Example 1
+User: I tried to add my French number but now I want to keep my Senegalese number. What should I do?
+Bot: That’s fine! Please continue with your Senegalese number. You just need to validate it with the SMS code received.
+
+Example 2
+User: Where can I find the “account subscriber number” requested in the form?
+Bot: The subscriber account number is the reference number linked to your Ecobank account application. You will find it in the confirmation email after starting your application.

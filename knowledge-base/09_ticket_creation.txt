@@ -1,0 +1,201 @@
+Topic: 09_ticket_creation
+
+Example 1
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-366514. You will receive updates via SMS or email.
+
+Example 2
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-119922. You will receive updates via SMS or email.
+
+Example 3
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-894793. You will receive updates via SMS or email.
+
+Example 4
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-986090. You will receive updates via SMS or email.
+
+Example 5
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-292135. You will receive updates via SMS or email.
+
+Example 6
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-889782. You will receive updates via SMS or email.
+
+Example 7
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-557977. You will receive updates via SMS or email.
+
+Example 8
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-929629. You will receive updates via SMS or email.
+
+Example 9
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-869314. You will receive updates via SMS or email.
+
+Example 10
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-781206. You will receive updates via SMS or email.
+
+Example 11
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-112056. You will receive updates via SMS or email.
+
+Example 12
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-115594. You will receive updates via SMS or email.
+
+Example 13
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-587413. You will receive updates via SMS or email.
+
+Example 14
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-545315. You will receive updates via SMS or email.
+
+Example 15
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-295332. You will receive updates via SMS or email.
+
+Example 16
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-196683. You will receive updates via SMS or email.
+
+Example 17
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-753127. You will receive updates via SMS or email.
+
+Example 18
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-257764. You will receive updates via SMS or email.
+
+Example 19
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-352888. You will receive updates via SMS or email.
+
+Example 20
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-985205. You will receive updates via SMS or email.
+
+Example 21
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-816125. You will receive updates via SMS or email.
+
+Example 22
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-142799. You will receive updates via SMS or email.
+
+Example 23
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-211310. You will receive updates via SMS or email.
+
+Example 24
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-512855. You will receive updates via SMS or email.
+
+Example 25
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-561338. You will receive updates via SMS or email.
+
+Example 26
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-553064. You will receive updates via SMS or email.
+
+Example 27
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-877687. You will receive updates via SMS or email.
+
+Example 28
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-181806. You will receive updates via SMS or email.
+
+Example 29
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-268782. You will receive updates via SMS or email.
+
+Example 30
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-762221. You will receive updates via SMS or email.
+
+Example 31
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-251784. You will receive updates via SMS or email.
+
+Example 32
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-730027. You will receive updates via SMS or email.
+
+Example 33
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-968529. You will receive updates via SMS or email.
+
+Example 34
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-219858. You will receive updates via SMS or email.
+
+Example 35
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-455518. You will receive updates via SMS or email.
+
+Example 36
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-703372. You will receive updates via SMS or email.
+
+Example 37
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-442926. You will receive updates via SMS or email.
+
+Example 38
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-642736. You will receive updates via SMS or email.
+
+Example 39
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-672375. You will receive updates via SMS or email.
+
+Example 40
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-775265. You will receive updates via SMS or email.
+
+Example 41
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-754400. You will receive updates via SMS or email.
+
+Example 42
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-850863. You will receive updates via SMS or email.
+
+Example 43
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-938705. You will receive updates via SMS or email.
+
+Example 44
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-384781. You will receive updates via SMS or email.
+
+Example 45
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-363150. You will receive updates via SMS or email.
+
+Example 46
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-112914. You will receive updates via SMS or email.
+
+Example 47
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-428058. You will receive updates via SMS or email.
+
+Example 48
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-360305. You will receive updates via SMS or email.
+
+Example 49
+User: Can you open a ticket?
+Bot: We have opened a support ticket for your request. Your reference number is: EC-304860. You will receive updates via SMS or email.
+
+Example 50
+User: Please log my issue.
+Bot: We have opened a support ticket for your request. Your reference number is: EC-513367. You will receive updates via SMS or email.

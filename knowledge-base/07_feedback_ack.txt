@@ -1,0 +1,201 @@
+Topic: 07_feedback_ack
+
+Example 1
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 2
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 3
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 4
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 5
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 6
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 7
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 8
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 9
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 10
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 11
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 12
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 13
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 14
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 15
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 16
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 17
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 18
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 19
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 20
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 21
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 22
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 23
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 24
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 25
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 26
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 27
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 28
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 29
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 30
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 31
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 32
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 33
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 34
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 35
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 36
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 37
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 38
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 39
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 40
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 41
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 42
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 43
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 44
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 45
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 46
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 47
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 48
+User: Your app is helpful.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 49
+User: The chat was slow.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.
+
+Example 50
+User: Le service est bon.
+Bot: Thank you for your feedback. We have recorded your comment and will use it to improve our service.

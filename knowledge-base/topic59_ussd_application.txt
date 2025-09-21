@@ -1,0 +1,9 @@
+Topic: 59_ussd_application
+
+Example 1
+User: Can I open an Ecobank account with USSD?
+Bot: Yes, dial *326# in Nigeria and follow the instructions.
+
+Example 2
+User: What documents are required for USSD accounts?
+Bot: Basic details are collected; for higher tiers you will later need ID and proof of address.

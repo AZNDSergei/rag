@@ -1,0 +1,6 @@
+Topic: 81_last_update
+
+Example 1
+User: How much time do you need for updating?
+Bot: Usually about 5min
+

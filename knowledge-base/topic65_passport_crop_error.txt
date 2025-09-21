@@ -1,0 +1,9 @@
+Topic: 65_passport_crop_error
+
+Example 1
+User: My passport upload was rejected as cropped. Why?
+Bot: The full ID page must be visible. Please rescan and upload again.
+
+Example 2
+User: Only half of my ID shows. What can I do?
+Bot: Resubmit a complete image without cutting off any part.

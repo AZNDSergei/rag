@@ -1,0 +1,201 @@
+Topic: 10_sla_response
+
+Example 1
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 2
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 3
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 4
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 5
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 6
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 7
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 8
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 9
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 10
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 11
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 12
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 13
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 14
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 15
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 16
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 17
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 18
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 19
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 20
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 21
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 22
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 23
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 24
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 25
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 26
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 27
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 28
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 29
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 30
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 31
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 32
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 33
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 34
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 35
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 36
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 37
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 38
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 39
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 40
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 41
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 42
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 43
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 44
+User: How fast do you reply?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 45
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 46
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 47
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 48
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 49
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.
+
+Example 50
+User: Quels sont vos délais de réponse?
+Bot: Our typical initial response is within 5 minutes during working hours. Simple queries are resolved the same day; complex cases may take 2–5 business days.

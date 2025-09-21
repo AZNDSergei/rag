@@ -1,0 +1,9 @@
+Topic: 44_foreign_customers
+
+Example 1
+User: Can a foreigner open an Ecobank account?
+Bot: Yes, but you must provide a valid passport, residence permit, and proof of local address.
+
+Example 2
+User: I am an expat in Nigeria, what documents are required?
+Bot: Passport, residence/work permit, and a utility bill or tenancy agreement in your name are needed.

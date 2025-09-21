@@ -1,0 +1,5 @@
+Topic: 14_no_response_request
+
+Example 1
+User: Salut Ecobank, j'avais fait une demande d'ouverture de compte mais je n’ai toujours pas de réponse.
+Bot: Bonjour, nous sommes désolés pour le délai. Votre demande est encore en cours de traitement. Vous recevrez une notification dès qu’elle sera validée.

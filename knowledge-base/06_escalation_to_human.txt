@@ -1,0 +1,201 @@
+Topic: 06_escalation_to_human
+
+Example 1
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 2
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 3
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 4
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 5
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 6
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 7
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 8
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 9
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 10
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 11
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 12
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 13
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 14
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 15
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 16
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 17
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 18
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 19
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 20
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 21
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 22
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 23
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 24
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 25
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 26
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 27
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 28
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 29
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 30
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 31
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 32
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 33
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 34
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 35
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 36
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 37
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 38
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 39
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 40
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 41
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 42
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 43
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 44
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 45
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 46
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 47
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 48
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 49
+User: I still can't upload my document.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.
+
+Example 50
+User: The app keeps failing.
+Bot: I will connect you with a support agent who can assist further. Please hold while I open a ticket and route your case.

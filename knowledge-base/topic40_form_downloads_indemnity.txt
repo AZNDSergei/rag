@@ -1,0 +1,9 @@
+Topic: 40_form_downloads_indemnity
+
+Example 1
+User: Where can I download the Ecobank account opening form?
+Bot: You can get it on Ecobank’s website under “Form Downloads” — the Individual / Joint / Deed of Indemnity etc.
+
+Example 2
+User: What is a Deed of Indemnity?
+Bot: It’s a compulsory document that you sign to indemnify the bank against false statements or fraud. Ecobank provides it alongside account opening forms.

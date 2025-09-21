@@ -1,0 +1,2 @@
+[2025-09-21T05:18:59.698902] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T05:21:21.210048] ERROR: OSError(16, 'Device or resource busy')

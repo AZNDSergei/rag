@@ -1,0 +1,9 @@
+Topic: 68_student_account
+
+Example 1
+User: What is required for a student account?
+Bot: School ID, admission letter, and guardian details are usually needed.
+
+Example 2
+User: Is there an age restriction?
+Bot: Student accounts are typically for ages 16–25, with guardian consent if under 18.

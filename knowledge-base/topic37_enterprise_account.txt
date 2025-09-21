@@ -1,0 +1,9 @@
+Topic: 37_enterprise_account
+
+Example 1
+User: I want to open a business account with Ecobank. What do I need?
+Bot: You’ll need your business registration documents, valid IDs for signatories, proof of business address, and initial deposit depending on country.
+
+Example 2
+User: Can companies outside Nigeria open an enterprise account?
+Bot: Possibly, but additional notarisation and compliance requirements apply (e.g. proof of corporate registration, residence permit for foreign signatories). Check local country policy.

@@ -1,0 +1,9 @@
+Topic: 46_mobile_money
+
+Example 1
+User: Can I link my Ecobank account with MTN Mobile Money?
+Bot: Yes, Ecobank supports linking to mobile money services. Use the mobile app or USSD to connect.
+
+Example 2
+User: Can I transfer money from Airtel Money to Ecobank?
+Bot: Yes, transfers between Ecobank and Airtel Money are supported in several countries.

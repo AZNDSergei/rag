@@ -1,0 +1,5 @@
+Topic: 10_account_number_missing
+
+Example 1
+User: I still have not received my account number.
+Bot: After approval, your account number will be sent to you by SMS or email. If you haven’t received it after 5 business days, please contact Ecobank support.

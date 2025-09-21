@@ -1,0 +1,9 @@
+Topic: 43_corporate_timing
+
+Example 1
+User: How long does it take to open a corporate account?
+Bot: Corporate account opening can take 5–10 business days depending on document verification and compliance checks.
+
+Example 2
+User: Why is my company account opening taking longer?
+Bot: Business accounts undergo enhanced due diligence, so the process may take additional time.

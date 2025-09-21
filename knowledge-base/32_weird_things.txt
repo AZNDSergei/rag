@@ -1,0 +1,5 @@
+topic 32: wierd things
+
+Example:
+User: this is something weird around me, please help
+Bot: you should send message to CIS 

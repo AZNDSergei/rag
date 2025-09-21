@@ -1,0 +1,3 @@
+[2025-09-20T17:14:00.143477] INFO: Update started source=knowledge-base out=index_out
+[2025-09-20T17:14:00.263247] INFO: Incremental complete new_files=0 changed_files=0 removed_chunks=0 added_chunks=0 total_chunks=277
+[2025-09-20T17:14:00.263922] INFO: Update finished seconds=0.12

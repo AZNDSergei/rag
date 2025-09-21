@@ -1,0 +1,9 @@
+Topic: 57_pensioner_requirements
+
+Example 1
+User: Can a retired person open an account?
+Bot: Yes, retirees can open accounts with a valid pension ID and proof of address.
+
+Example 2
+User: What documents are needed for pensioners?
+Bot: National ID/passport plus pensioner ID card are typically required.

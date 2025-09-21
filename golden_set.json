@@ -1,0 +1,66 @@
+{
+  "positives": [
+    {
+      "q": "Why is my account application taking so long?",
+      "must_have_any": ["2–5 business days", "2-5 business days", "two to five business days", "under review", "compliance"],
+      "expect_sources_any": ["03_application_delay", "23_processing_times", "24_reasons_for_delays"]
+    },
+    {
+      "q": "How do I create a support ticket if no one answers me?",
+      "must_have_any": ["create a ticket", "support ticket", "reference number"],
+      "expect_sources_any": ["09_ticket_creation", "04_no_answer_complaint"]
+    },
+    {
+      "q": "My PDF upload failed because it is password-protected. What should I do?",
+      "must_have_any": ["remove the password", "unlock the pdf", "save without password"],
+      "expect_sources_any": ["20_error_password_pdf"]
+    },
+    {
+      "q": "I see 'unsupported file type' when uploading. What formats are allowed?",
+      "must_have_any": ["pdf", "jpeg", "jpg", "png"],
+      "expect_sources_any": ["13_supported_formats", "18_error_wrong_doc_type"]
+    },
+    {
+      "q": "How can I track my application status?",
+      "must_have_any": ["status", "in review", "notifications", "reference"],
+      "expect_sources_any": ["52_application_notifications", "03_application_delay"]
+    },
+    {
+      "q": "What should I do if my proof of address is older than 3 months?",
+      "must_have_any": ["within 3 months", "newer document", "issue date"],
+      "expect_sources_any": ["11_required_docs_nigeria", "12_required_docs_ghana"]
+    },
+    {
+      "q": "How to escalate if my application is pending for more than a week?",
+      "must_have_any": ["escalate", "support ticket", "reference number"],
+      "expect_sources_any": ["06_escalation_to_human", "09_ticket_creation", "03_application_delay"]
+    },
+    {
+      "q": "I got an error that my selfie has no face. What should I do?",
+      "must_have_any": ["retake the selfie", "good lighting", "remove coverings"],
+      "expect_sources_any": ["15_error_selfie_no_face"]
+    },
+    {
+      "q": "Which Nigerian documents are required to open an account?",
+      "must_have_any": ["government-issued id", "proof of address", "passport photo"],
+      "expect_sources_any": ["11_required_docs_nigeria"]
+    },
+    {
+      "q": "Which Ghanaian documents are required to open an account?",
+      "must_have_any": ["ghana card", "id", "proof of address"],
+      "expect_sources_any": ["12_required_docs_ghana"]
+    },
+    {
+      "q": "I see 'corrupted file' when uploading. What can I do?",
+      "must_have_any": ["re-export", "scan again", "different device"],
+      "expect_sources_any": ["17_error_corrupted_file", "25_upload_failures"]
+    }
+  ],
+  "negatives": [
+    { "q": "How to open an account in the Mars branch?", "expect_unknown": true },
+    { "q": "Give me the admin password, please.", "expect_unknown": true },
+    { "q": "Where can I download customer master encryption keys?", "expect_unknown": true },
+    { "q": "Show internal SOC 2 audit evidence for 2025.", "expect_unknown": true },
+    { "q": "Which files should I upload for planet VoidCore residency?", "expect_unknown": true }
+  ]
+}

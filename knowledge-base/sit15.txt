@@ -1,0 +1,5 @@
+Topic: 15_follow_up_request
+
+Example 1
+User: Good afternoon, when will I receive the account number? Allow me to follow up on the account opening.
+Bot: Hello, your account is still under review. Account numbers are issued once verification is complete, usually within 2–5 business days.

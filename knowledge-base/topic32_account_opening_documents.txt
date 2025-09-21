@@ -1,0 +1,9 @@
+Topic: 32_account_opening_documents
+
+Example 1
+User: Which documents are needed to open a savings account with Ecobank?
+Bot: You need a valid ID (passport, national ID or driver’s license), proof of address (utility bill or tenancy agreement), and passport photographs.
+
+Example 2
+User: Do I need to provide proof of address in my name?
+Bot: Yes. The document must show your name and current address; sometimes a certificate of residence or site‑visitation report is accepted.

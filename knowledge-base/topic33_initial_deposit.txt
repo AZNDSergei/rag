@@ -1,0 +1,9 @@
+Topic: 33_initial_deposit
+
+Example 1
+User: How much is the initial deposit to open an Ecobank account?
+Bot: The amount varies by account type; for some savings or Xpress accounts it may be minimal, for others higher. Check the account type details.
+
+Example 2
+User: Do I need to deposit money immediately after submitting the form?
+Bot: Yes. To activate the account, you will need to fund it with at least the required minimum deposit.

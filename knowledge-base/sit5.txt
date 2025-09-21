@@ -1,0 +1,9 @@
+Topic: 06_application_update_delay
+
+Example 1
+User: I applied for a classic savings account on 30th of August but still haven’t received any update.
+Bot: Application review can take a few days depending on compliance checks. If it has been more than 5 business days, kindly contact support with your application reference.
+
+Example 2
+User: Where should I indicate the name of my school in the form?
+Bot: Please enter the school name in the “Employer/Institution” field of the application form.

@@ -1,0 +1,9 @@
+Topic: 71_guarantor_requirement
+
+Example 1
+User: Do I need a guarantor to open a savings account?
+Bot: No, guarantors are not required for personal savings accounts.
+
+Example 2
+User: What about for loans?
+Bot: Loan products may require guarantors, but not basic account opening.

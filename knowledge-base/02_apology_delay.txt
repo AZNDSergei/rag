@@ -1,0 +1,201 @@
+Topic: 02_apology_delay
+
+Example 1
+User: Vous répondez trop lentement.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 2
+User: Why is nobody replying?
+Bot: We apologize for the delay. How can I help you today?
+
+Example 3
+User: It took so long to respond.
+Bot: Thanks for your patience. How can I help you today?
+
+Example 4
+User: It took so long to respond.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 5
+User: Vous répondez trop lentement.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 6
+User: It took so long to respond.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 7
+User: Why is nobody replying?
+Bot: We apologize for the delay. How can I help you today?
+
+Example 8
+User: Vous répondez trop lentement.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 9
+User: Why is nobody replying?
+Bot: We apologize for the delay. How can I help you today?
+
+Example 10
+User: It took so long to respond.
+Bot: Sorry for the wait. How can I help you today?
+
+Example 11
+User: Vous répondez trop lentement.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 12
+User: Vous répondez trop lentement.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 13
+User: Vous répondez trop lentement.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 14
+User: Why is nobody replying?
+Bot: Merci de votre patience. How can I help you today?
+
+Example 15
+User: It took so long to respond.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 16
+User: Why is nobody replying?
+Bot: Thanks for your patience. How can I help you today?
+
+Example 17
+User: Vous répondez trop lentement.
+Bot: We apologize for the delay. How can I help you today?
+
+Example 18
+User: Vous répondez trop lentement.
+Bot: Thanks for your patience. How can I help you today?
+
+Example 19
+User: Why is nobody replying?
+Bot: We apologize for the delay. How can I help you today?
+
+Example 20
+User: Why is nobody replying?
+Bot: Sorry for the wait. How can I help you today?
+
+Example 21
+User: It took so long to respond.
+Bot: Thanks for your patience. How can I help you today?
+
+Example 22
+User: It took so long to respond.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 23
+User: It took so long to respond.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 24
+User: Vous répondez trop lentement.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 25
+User: Vous répondez trop lentement.
+Bot: We apologize for the delay. How can I help you today?
+
+Example 26
+User: It took so long to respond.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 27
+User: Vous répondez trop lentement.
+Bot: Thanks for your patience. How can I help you today?
+
+Example 28
+User: It took so long to respond.
+Bot: Sorry for the wait. How can I help you today?
+
+Example 29
+User: Why is nobody replying?
+Bot: Sorry for the wait. How can I help you today?
+
+Example 30
+User: Vous répondez trop lentement.
+Bot: Thanks for your patience. How can I help you today?
+
+Example 31
+User: It took so long to respond.
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 32
+User: Why is nobody replying?
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 33
+User: Why is nobody replying?
+Bot: Sorry for the wait. How can I help you today?
+
+Example 34
+User: Why is nobody replying?
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 35
+User: It took so long to respond.
+Bot: We apologize for the delay. How can I help you today?
+
+Example 36
+User: Why is nobody replying?
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 37
+User: Why is nobody replying?
+Bot: Sorry for the wait. How can I help you today?
+
+Example 38
+User: It took so long to respond.
+Bot: Thanks for your patience. How can I help you today?
+
+Example 39
+User: Vous répondez trop lentement.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 40
+User: Vous répondez trop lentement.
+Bot: We apologize for the delay. How can I help you today?
+
+Example 41
+User: Vous répondez trop lentement.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 42
+User: Why is nobody replying?
+Bot: Merci de votre patience. How can I help you today?
+
+Example 43
+User: Why is nobody replying?
+Bot: Thanks for your patience. How can I help you today?
+
+Example 44
+User: Why is nobody replying?
+Bot: We apologize for the delay. How can I help you today?
+
+Example 45
+User: It took so long to respond.
+Bot: Sorry for the wait. How can I help you today?
+
+Example 46
+User: Why is nobody replying?
+Bot: Thanks for your patience. How can I help you today?
+
+Example 47
+User: Vous répondez trop lentement.
+Bot: Sorry for the wait. How can I help you today?
+
+Example 48
+User: Why is nobody replying?
+Bot: Désolé pour l'attente. How can I help you today?
+
+Example 49
+User: It took so long to respond.
+Bot: Merci de votre patience. How can I help you today?
+
+Example 50
+User: Why is nobody replying?
+Bot: Désolé pour l'attente. How can I help you today?

@@ -1,0 +1,9 @@
+Topic: 31_bvn_requirement
+
+Example 1
+User: Is BVN mandatory for opening an Ecobank account in Nigeria?
+Bot: Yes. The Bank Verification Number (BVN) is required to open most accounts. If you already have BVN from another Nigerian bank, you can link it during application.
+
+Example 2
+User: What if I don’t have a BVN yet?
+Bot: You may open some limited‑type accounts without a BVN but account services will be restricted. It’s strongly recommended to obtain a BVN soon.

@@ -1,0 +1,18 @@
+@startuml
+   title Knowledge Base Auto-Update
+
+   actor Scheduler
+   participant "update_index.py" as Updater
+   collections "knowledge-base/" as KB
+   participant "Chunker" as Chunk
+   participant "Embedding Model\n(BAAI/bge-m3)" as Emb
+   database "FAISS Index\n(faiss.index + meta.jsonl)" as IDX
+   collections "logs/" as LOG
+
+   Scheduler -> Updater : run every 2 min
+   Updater -> KB : scan new/changed files
+   Updater -> Chunk : split docs into chunks
+   Chunk -> Emb : encode into vectors
+   Emb -> IDX : add_with_ids / remove_ids
+   Updater -> LOG : write stats/errors
+   @enduml

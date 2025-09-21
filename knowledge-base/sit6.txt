@@ -1,0 +1,5 @@
+Topic: 07_form_corrections
+
+Example 1
+User: Bonjour, je viens de corriger tout ce que vous avez mentionné dans votre message.
+Bot: Merci pour la mise à jour. Nous allons vérifier les informations corrigées et reprendre le processus de validation.
