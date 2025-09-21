@@ -1,0 +1,9 @@
+Topic: 76_processing_time
+
+Example 1
+User: How long is processing after submission?
+Bot: Standard accounts: 2–5 business days. Corporate accounts: 5–10 days.
+
+Example 2
+User: Why is it still under review?
+Bot: High volume or extra compliance checks can extend processing time.

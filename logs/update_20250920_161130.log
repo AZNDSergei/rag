@@ -1,0 +1,5 @@
+[2025-09-20T16:11:30+07:00] Run 1/3: python update_index.py --source 'knowledge-base' --out 'index_out' --min_words 30 --max_words 120
+[2025-09-20T16:11:30.145122] INFO: Update started source=knowledge-base out=index_out
+[2025-09-20T16:11:44.275109] INFO: Incremental update complete new_files=1 changed_files=0 added_chunks=10 total_chunks=407
+[2025-09-20T16:11:44.275642] INFO: Update finished seconds=14.13
+[2025-09-20T16:11:45+07:00] Success

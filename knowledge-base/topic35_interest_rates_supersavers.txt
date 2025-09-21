@@ -1,0 +1,9 @@
+Topic: 35_interest_rates_supersavers
+
+Example 1
+User: How much interest do I earn on the Supersavers account?
+Bot: Supersavers accounts have tiered interest rates — higher balances earn higher rates. Eg. some offers go up to ~9% p.a. in Nigeria under promotional Supersavers.
+
+Example 2
+User: Is interest on Supersavers paid monthly or yearly?
+Bot: Interest is usually credited monthly, but terms may vary. Check with your local Ecobank branch.

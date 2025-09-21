@@ -1,0 +1,9 @@
+Topic: 61_tiered_accounts
+
+Example 1
+User: What are tiered accounts?
+Bot: Accounts with different transaction and balance limits depending on level of KYC completed.
+
+Example 2
+User: How do I move to a higher tier?
+Bot: Provide additional KYC documents like ID, proof of address, and BVN.

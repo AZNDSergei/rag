@@ -1,0 +1,9 @@
+Topic: 53_email_confirmation_error
+
+Example 1
+User: My email confirmation link doesn’t work.
+Bot: Please request a new confirmation email from the login page.
+
+Example 2
+User: I clicked the link but it says expired.
+Bot: Confirmation links expire after 24 hours. Request a new one to proceed.

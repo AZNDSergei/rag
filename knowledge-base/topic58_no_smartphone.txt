@@ -1,0 +1,9 @@
+Topic: 58_no_smartphone
+
+Example 1
+User: Can I open an account without a smartphone?
+Bot: Yes, you can use USSD codes or visit a branch for account opening.
+
+Example 2
+User: I don’t have internet access. Is it possible?
+Bot: Yes, offline methods like USSD and paper forms are available.

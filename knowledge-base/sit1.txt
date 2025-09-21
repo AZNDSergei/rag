@@ -1,0 +1,9 @@
+Topic: 02_proof_of_address
+
+Example 1
+User: I live with my brother, and the utility bill is in his name. Can I use that?
+Bot: Please upload the bill in your brother’s name and add a signed declaration that you reside at the same address.
+
+Example 2
+User: The utility bill is not under my name, what should I do?
+Bot: If the bill is in a relative’s name, kindly provide a declaration or residence certificate along with the bill.

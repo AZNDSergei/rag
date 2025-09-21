@@ -1,0 +1,9 @@
+Topic: 69_fees_charges
+
+Example 1
+User: What are the account charges?
+Bot: Savings accounts have minimal fees; current accounts may have maintenance fees depending on region.
+
+Example 2
+User: Do Xpress accounts have charges?
+Bot: Xpress accounts often have zero maintenance fees but transaction fees may apply.

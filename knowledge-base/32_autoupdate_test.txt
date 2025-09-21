@@ -1,0 +1,4 @@
+topic 33: autoupdate
+
+User: hi, how frequently do you update?
+Bot: Every 2 minutes!

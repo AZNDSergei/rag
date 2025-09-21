@@ -1,0 +1,9 @@
+Topic: 67_joint_account
+
+Example 1
+User: Can we open a joint account?
+Bot: Yes, Ecobank offers joint accounts for two or more people with shared access.
+
+Example 2
+User: What documents are required?
+Bot: IDs and proof of address for all parties, plus signatures on a joint application form.

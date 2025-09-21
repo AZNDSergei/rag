@@ -1,0 +1,201 @@
+Topic: 22_kyc_steps
+
+Example 1
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 2
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 3
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 4
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 5
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 6
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 7
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 8
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 9
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 10
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 11
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 12
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 13
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 14
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 15
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 16
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 17
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 18
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 19
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 20
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 21
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 22
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 23
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 24
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 25
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 26
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 27
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 28
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 29
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 30
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 31
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 32
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 33
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 34
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 35
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 36
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 37
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 38
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 39
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.
+
+Example 40
+- Verify ID validity.
+- Verify proof of address recency.
+- Match selfie with ID photo where allowed.

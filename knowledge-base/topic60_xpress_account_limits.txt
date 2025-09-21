@@ -1,0 +1,9 @@
+Topic: 60_xpress_account_limits
+
+Example 1
+User: What are the limits for Ecobank Xpress accounts?
+Bot: Daily transaction and balance limits apply, depending on tier. Example: ₦300,000 max balance in Nigeria.
+
+Example 2
+User: Can I upgrade my Xpress account?
+Bot: Yes, by submitting full KYC documents you can remove limits.

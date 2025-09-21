@@ -1,0 +1,9 @@
+Topic: 42_cancel_application
+
+Example 1
+User: I want to cancel my Ecobank account opening request.
+Bot: You can cancel by not completing the application. Incomplete applications are automatically closed after 30 days.
+
+Example 2
+User: Can I withdraw my application after submission?
+Bot: Yes, contact Ecobank support with your reference number to request cancellation.

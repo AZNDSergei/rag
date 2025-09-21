@@ -1,0 +1,6 @@
+[2025-09-21T05:29:48.090245] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T05:29:48.217870] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T05:29:48.345974] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T05:29:48.473046] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T05:29:48.600552] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T05:29:48.603383] ERROR: RecursionError('maximum recursion depth exceeded while calling a Python object')

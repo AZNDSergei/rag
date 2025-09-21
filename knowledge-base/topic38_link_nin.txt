@@ -1,0 +1,9 @@
+Topic: 38_link_nin
+
+Example 1
+User: What is NIN and do I need to link it to my Ecobank account?
+Bot: NIN is the National Identification Number in Nigeria; Ecobank requires linking with BVN for full account services and regulatory compliance.
+
+Example 2
+User: How do I link my NIN to my Ecobank account?
+Bot: You can link via Ecobank branch or self‑service portal; provide NIN slip, account number, and valid ID.

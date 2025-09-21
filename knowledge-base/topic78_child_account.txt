@@ -1,0 +1,9 @@
+Topic: 78_child_account
+
+Example 1
+User: Can I open an account for my child?
+Bot: Yes, child/minor accounts require parent/guardian ID and the child’s birth certificate.
+
+Example 2
+User: At what age can children hold accounts?
+Bot: From birth, with guardian until 18 years.

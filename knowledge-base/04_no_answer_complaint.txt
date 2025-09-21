@@ -1,0 +1,201 @@
+Topic: 04_no_answer_complaint
+
+Example 1
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 2
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 3
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 4
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 5
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 6
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 7
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 8
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 9
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 10
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 11
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 12
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 13
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 14
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 15
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 16
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 17
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 18
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 19
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 20
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 21
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 22
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 23
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 24
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 25
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 26
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 27
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 28
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 29
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 30
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 31
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 32
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 33
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 34
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 35
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 36
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 37
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 38
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 39
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 40
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 41
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 42
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 43
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 44
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 45
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 46
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 47
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 48
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 49
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.
+
+Example 50
+User: Why don't you answer me?
+Bot: Apologies for the silence. I'm here now to help. Please share your application reference number or registered email/phone.

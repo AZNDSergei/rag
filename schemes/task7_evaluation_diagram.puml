@@ -1,0 +1,106 @@
+@startuml
+title RAG Bot QA Flow with Gaps, Logging, Golden Set Tests and Evaluation
+
+actor User as U
+participant "Telegram Bot\n(bot_telegram.py)" as TG
+participant "RAG Core\n(rag_core.py)" as RAG
+participant "Embedding Model\n(BAAI/bge-m3)" as EMB
+database "FAISS Index\n(faiss.index + meta.jsonl)" as FAISS
+collections "KB Files\n(knowledge-base/*.txt)" as KB
+participant "OpenAI LLM\n(chat.completions)" as LLM
+collections "Logger\n(JSONL)" as LOG
+actor "Test Runner\n(test_golden_set.py)" as TEST
+collections "Golden Set\n(golden_set.jsonl)" as GS
+
+== Prepare artificial gaps ==
+note over KB
+(Once) Editor removes 2–3 key entities
+(e.g., 'VoidCore', 'Xarn Velgor', 'Synth Flux')
+to simulate missing knowledge.
+Then update_index.py rebuilds FAISS.
+end note
+RAG -> KB : scan & chunk files
+RAG -> EMB : encode chunks
+RAG -> FAISS : rebuild index (add vectors)
+
+== Normal user request ==
+U -> TG : 1) "User message(s)"
+activate TG
+TG -> RAG : 2) debounce + buffer -> generate_answer(query, history)
+activate RAG
+
+alt Guard: index missing or empty
+  RAG -> FAISS : check existence/mtime
+  FAISS --> RAG : not found / size==0
+  RAG -> TG : "I don't know (index unavailable)"\n+ suggest retry
+  TG -> LOG : write log{timestamp, query, found_chunks=0,\nanswer_len=short, success=false, sources=[] ,\nerror="IndexMissing"}
+  deactivate RAG
+  deactivate TG
+  return
+else Index OK
+  RAG -> EMB : 3) embed_query(query)
+  EMB --> RAG : q-vector
+  RAG -> FAISS : 4) search top-k
+  FAISS --> RAG : hits (chunks, scores, meta)
+
+  alt No chunks retrieved
+    RAG -> TG : "I don't know" (+ ask clarifying info)
+    TG -> LOG : log{found_chunks=0, success=false, sources=[]}
+    deactivate RAG
+    deactivate TG
+    return
+  else Chunks found
+    RAG -> RAG : 5) Sanitize context\n(strip injections, redact secrets, drop suspicious links)
+    RAG -> LLM : 6) Build prompt (system+few-shot+history+contexts)\n-> call LLM
+    activate LLM
+
+    alt LLM error/timeout
+      LLM --> RAG : error
+      RAG -> TG : graceful error message
+      TG -> LOG : log{found_chunks>0, success=false,\nerror="LLMTimeout"}
+      deactivate LLM
+      deactivate RAG
+      deactivate TG
+      return
+    else OK
+      LLM --> RAG : 7) Answer (reasoning summary + final)
+      RAG -> TG : 8) Answer + sources footer
+      TG -> LOG : 9) log{timestamp, query,\nfound_chunks=k, answer_len, success=heuristic,\nsources=[doc_path:chunk_idx...]}
+    end
+  end
+end
+deactivate RAG
+deactivate TG
+
+== Automated evaluation (Golden Set) ==
+TEST -> GS : 1) load 10–15 Qs\n(8 positives, 3–5 negatives)
+loop for each question
+  TEST -> TG : 2) send question (simulated user)
+  TG -> RAG : 3) generate_answer(...)
+  RAG -> EMB : 4) embed + retrieve
+  RAG -> FAISS : 5) search
+  FAISS --> RAG : hits
+  RAG -> LLM : 6) prompt with few-shot + contexts
+  LLM --> RAG : 7) answer
+  RAG -> TG : 8) answer + sources
+  TG -> LOG : 9) log row (same schema)
+  TEST -> TEST : 10) evaluate heuristic\n(e.g., contains expected keywords,\nanswer_len > min, not "I don't know" for positives,\nIS "I don't know" for negatives)
+end
+
+== Analytics over logs ==
+participant "Analytics" as ANA
+ANA -> LOG : Load logs (*.jsonl)
+ANA -> ANA : Aggregate KPIs (может быть процент успешных по топикам, top queries, непокрытые процессы)
+ANA -> KB : Produce backlog to expand/clean docs
+ANA -> FAISS : (after KB updates) trigger rebuild
+
+== Failure points legend ==
+note over RAG,FAISS
+Potential failures:
+- Empty or missing FAISS index
+- Invalid chunk meta (missing text/title)
+- LLM timeout / rate limit
+- Prompt-injection attempt in chunks
+end note
+
+@enduml

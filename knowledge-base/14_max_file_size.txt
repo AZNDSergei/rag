@@ -1,0 +1,161 @@
+Topic: 14_max_file_size
+
+Example 1
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 2
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 3
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 4
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 5
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 6
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 7
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 8
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 9
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 10
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 11
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 12
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 13
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 14
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 15
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 16
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 17
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 18
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 19
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 20
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 21
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 22
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 23
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 24
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 25
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 26
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 27
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 28
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 29
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 30
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 31
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 32
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 33
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 34
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 35
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 36
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 37
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 38
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 39
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.
+
+Example 40
+- Each file must not exceed 10 MB.
+- Compress or resize large files before upload.

@@ -1,0 +1,9 @@
+Topic: 47_minimum_age
+
+Example 1
+User: What is the minimum age to open an Ecobank account?
+Bot: The minimum age is 18. Minors can open accounts with a guardian as signatory.
+
+Example 2
+User: Can a 17‑year‑old open a student account?
+Bot: Yes, but a parent or guardian must co‑sign and provide supporting documents.

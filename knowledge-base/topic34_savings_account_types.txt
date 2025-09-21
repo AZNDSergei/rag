@@ -1,0 +1,9 @@
+Topic: 34_savings_account_types
+
+Example 1
+User: What kinds of savings accounts does Ecobank offer?
+Bot: Ecobank offers Classic Savings, Xpress Accounts, Diaspora Savings, Supersavers with interest‑tiers, and multi‑currency savings options.
+
+Example 2
+User: What is a Diaspora Savings Account?
+Bot: A Diaspora account is for customers living abroad; you send the required documents (notarised), choose currency (local or foreign), upload required forms, then account is opened.

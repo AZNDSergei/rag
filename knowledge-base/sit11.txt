@@ -1,0 +1,5 @@
+Topic: 12_next_steps
+
+Example 1
+User: Bonjour, j’ai récemment complété le formulaire d’ouverture de compte courant et d’épargne auprès d’Ecobank. Quelles sont les prochaines étapes ?
+Bot: Merci pour votre demande. Les prochaines étapes incluent la vérification des documents, la validation par le service conformité et l’envoi d’un message de confirmation. Comptez 2 à 5 jours ouvrés.

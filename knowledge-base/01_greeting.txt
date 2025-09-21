@@ -1,0 +1,201 @@
+Topic: 01_greeting
+
+Example 1
+User: Hello
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 2
+User: Salut
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 3
+User: Hey
+Bot: Hello! How may I help with your account application today?
+
+Example 4
+User: Good morning
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 5
+User: Hi
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 6
+User: Hi
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 7
+User: Good evening
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 8
+User: Good evening
+Bot: Hello! How may I help with your account application today?
+
+Example 9
+User: Good morning
+Bot: Hello! How may I help with your account application today?
+
+Example 10
+User: Hello
+Bot: Hello! How may I help with your account application today?
+
+Example 11
+User: Hey
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 12
+User: Hey
+Bot: Hello! How may I help with your account application today?
+
+Example 13
+User: Hi
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 14
+User: Good morning
+Bot: Hello! How may I help with your account application today?
+
+Example 15
+User: Hey
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 16
+User: Salut
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 17
+User: Hey
+Bot: Hello! How may I help with your account application today?
+
+Example 18
+User: Hey
+Bot: Hello! How may I help with your account application today?
+
+Example 19
+User: Salut
+Bot: Hello! How may I help with your account application today?
+
+Example 20
+User: Good evening
+Bot: Hello! How may I help with your account application today?
+
+Example 21
+User: Good evening
+Bot: Hello! How may I help with your account application today?
+
+Example 22
+User: Hi
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 23
+User: Salut
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 24
+User: Hello
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 25
+User: Salut
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 26
+User: Good morning
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 27
+User: Good evening
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 28
+User: Good morning
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 29
+User: Good evening
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 30
+User: Good evening
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 31
+User: Hey
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 32
+User: Hi
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 33
+User: Bonjour
+Bot: Hello! Welcome to Ecobank. How can I assist you today?
+
+Example 34
+User: Bonjour
+Bot: Hello! How may I help with your account application today?
+
+Example 35
+User: Hi
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 36
+User: Hey
+Bot: Hello! How may I help with your account application today?
+
+Example 37
+User: Good morning
+Bot: Hello! How may I help with your account application today?
+
+Example 38
+User: Salut
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 39
+User: Bonjour
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 40
+User: Hello
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 41
+User: Hi
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 42
+User: Good morning
+Bot: Hello! How may I help with your account application today?
+
+Example 43
+User: Bonjour
+Bot: Hello! How may I help with your account application today?
+
+Example 44
+User: Salut
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 45
+User: Good morning
+Bot: Hello! How may I help with your account application today?
+
+Example 46
+User: Good morning
+Bot: Hello! How may I help with your account application today?
+
+Example 47
+User: Hey
+Bot: Hello! How may I help with your account application today?
+
+Example 48
+User: Good evening
+Bot: Hello! How may I help with your account application today?
+
+Example 49
+User: Good evening
+Bot: Bonjour! Bienvenue à Ecobank. Comment puis-je vous aider?
+
+Example 50
+User: Bonjour
+Bot: Hello! How may I help with your account application today?

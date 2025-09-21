@@ -1,0 +1,9 @@
+Topic: 62_incomplete_application_expiry
+
+Example 1
+User: How long does my incomplete application stay active?
+Bot: Incomplete applications are saved for up to 30 days before being closed.
+
+Example 2
+User: Can I resume an old application after 30 days?
+Bot: No, you must start a new application if the old one expired.

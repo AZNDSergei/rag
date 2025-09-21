@@ -1,0 +1,9 @@
+Topic: 64_income_proof
+
+Example 1
+User: Do I need proof of income to open an account?
+Bot: For savings accounts no, for current or premium accounts yes, salary slips or tax forms may be requested.
+
+Example 2
+User: What if I am self‑employed?
+Bot: Provide business registration and bank statements as proof of income.

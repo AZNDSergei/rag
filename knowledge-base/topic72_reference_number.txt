@@ -1,0 +1,9 @@
+Topic: 72_reference_number
+
+Example 1
+User: What is a reference number?
+Bot: It is a unique identifier for your application used to track progress.
+
+Example 2
+User: Where can I find it?
+Bot: It is sent to you by SMS/email after submission of your application.

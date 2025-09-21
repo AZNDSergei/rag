@@ -1,0 +1,5 @@
+Topic: 04_account_opening_wait
+
+Example 1
+User: I’m kindly waiting and expecting my account to be opened.
+Bot: Your account application is under review. Verification usually takes 2–5 business days. You’ll be notified once it’s complete.

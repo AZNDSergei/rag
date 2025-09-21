@@ -1,0 +1,9 @@
+Topic: 75_credit_history
+
+Example 1
+User: Does my credit history affect account opening?
+Bot: Generally no, but it may affect loan eligibility after account opening.
+
+Example 2
+User: Can bad credit prevent an account?
+Bot: Basic accounts are usually unaffected by credit score.

@@ -1,0 +1,5 @@
+Topic: 11_general_status
+
+Example 1
+User: Hello, please I am reaching out to find out the status of my application.
+Bot: Your application is under review. Please allow 2–5 business days for the process to be completed.

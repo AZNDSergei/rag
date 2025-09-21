@@ -1,0 +1,9 @@
+Topic: 79_contact_support
+
+Example 1
+User: How do I contact Ecobank for help?
+Bot: Use the support contacts on Ecobank’s website, via phone, email, or in‑app chat.
+
+Example 2
+User: Can I chat directly with an agent?
+Bot: Yes, Ecobank provides live chat in the mobile app and on the website.

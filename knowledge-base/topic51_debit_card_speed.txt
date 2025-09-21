@@ -1,0 +1,9 @@
+Topic: 51_debit_card_speed
+
+Example 1
+User: How fast can I get my debit card after account opening?
+Bot: Debit cards are usually ready within 5–7 business days after account approval.
+
+Example 2
+User: Can my debit card be delivered?
+Bot: In some regions, Ecobank offers card delivery; otherwise collect at your branch.

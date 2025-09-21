@@ -1,0 +1,201 @@
+Topic: 05_polite_templates
+
+Example 1
+User: 
+Bot: Thank you for contacting Ecobank.
+
+Example 2
+User: 
+Bot: Could you please provide more details?
+
+Example 3
+User: Merci
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 4
+User: Thanks
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 5
+User: 
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 6
+User: Thanks
+Bot: Thank you for contacting Ecobank.
+
+Example 7
+User: 
+Bot: Could you please provide more details?
+
+Example 8
+User: 
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 9
+User: 
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 10
+User: Merci
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 11
+User: Merci
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 12
+User: Thanks
+Bot: Thank you for contacting Ecobank.
+
+Example 13
+User: Merci
+Bot: Thank you for contacting Ecobank.
+
+Example 14
+User: 
+Bot: Could you please provide more details?
+
+Example 15
+User: Thanks
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 16
+User: Thanks
+Bot: Could you please provide more details?
+
+Example 17
+User: 
+Bot: Thank you for contacting Ecobank.
+
+Example 18
+User: Thanks
+Bot: Thank you for contacting Ecobank.
+
+Example 19
+User: Merci
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 20
+User: 
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 21
+User: Merci
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 22
+User: 
+Bot: Could you please provide more details?
+
+Example 23
+User: Merci
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 24
+User: Thanks
+Bot: Thank you for contacting Ecobank.
+
+Example 25
+User: 
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 26
+User: 
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 27
+User: 
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 28
+User: 
+Bot: Thank you for contacting Ecobank.
+
+Example 29
+User: 
+Bot: Thank you for contacting Ecobank.
+
+Example 30
+User: Merci
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 31
+User: Thanks
+Bot: Thank you for contacting Ecobank.
+
+Example 32
+User: Merci
+Bot: Thank you for contacting Ecobank.
+
+Example 33
+User: Merci
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 34
+User: 
+Bot: Could you please provide more details?
+
+Example 35
+User: 
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 36
+User: Thanks
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 37
+User: Thanks
+Bot: Could you please provide more details?
+
+Example 38
+User: 
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 39
+User: 
+Bot: Thank you for contacting Ecobank.
+
+Example 40
+User: Merci
+Bot: Thank you for contacting Ecobank.
+
+Example 41
+User: Thanks
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 42
+User: 
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 43
+User: Merci
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 44
+User: Merci
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 45
+User: Merci
+Bot: Pouvez-vous fournir plus de détails, s'il vous plaît?
+
+Example 46
+User: 
+Bot: Could you please provide more details?
+
+Example 47
+User: 
+Bot: Could you please provide more details?
+
+Example 48
+User: Thanks
+Bot: Merci d'avoir contacté Ecobank.
+
+Example 49
+User: 
+Bot: Could you please provide more details?
+
+Example 50
+User: Merci
+Bot: Could you please provide more details?

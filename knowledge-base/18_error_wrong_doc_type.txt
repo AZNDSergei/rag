@@ -1,0 +1,161 @@
+Topic: 18_error_wrong_doc_type
+
+Example 1
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 2
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 3
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 4
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 5
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 6
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 7
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 8
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 9
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 10
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 11
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 12
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 13
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 14
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 15
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 16
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 17
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 18
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 19
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 20
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 21
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 22
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 23
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 24
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 25
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 26
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 27
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 28
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 29
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 30
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 31
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 32
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 33
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 34
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 35
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 36
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 37
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 38
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 39
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).
+
+Example 40
+- Uploaded document does not match the required type.
+- Specify the required ID (e.g., passport).

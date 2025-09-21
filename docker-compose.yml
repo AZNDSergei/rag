@@ -1,0 +1,49 @@
+version: "3.9"
+
+services:
+  rag-bot:
+    build: .
+    container_name: rag-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_CHAT_MODEL=${OPENAI_CHAT_MODEL:-gpt-4o-mini}
+      - RAG_TOP_K=${RAG_TOP_K:-5}
+      - RAG_MAX_HISTORY_TURNS=${RAG_MAX_HISTORY_TURNS:-5}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+    volumes:
+      - ./knowledge-base:/app/knowledge-base
+      - ./index_out:/app/index_out
+      - ./logs:/app/logs
+    depends_on:
+      - index-updater
+    healthcheck:
+      test: ["CMD", "python", "-c", "import faiss, sentence_transformers; print('ok')"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+
+  index-updater:
+    build: .
+    container_name: index-updater
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - UPDATE_INTERVAL_SECONDS=${UPDATE_INTERVAL_SECONDS:-120}
+    volumes:
+      - ./knowledge-base:/app/knowledge-base
+      - ./index_out:/app/index_out
+      - ./logs:/app/logs
+    command: >
+      sh -lc "
+        echo 'Index updater started: every ${UPDATE_INTERVAL_SECONDS:-120}s';
+        while true; do
+          start=$$(date -Iseconds);
+          echo \"[$$start] updating index...\";
+          python update_index.py --source /app/knowledge-base --out /app/index_out || echo '[ERR] update failed';
+          sleep $${UPDATE_INTERVAL_SECONDS:-120};
+        done
+      "

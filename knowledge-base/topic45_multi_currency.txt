@@ -1,0 +1,9 @@
+Topic: 45_multi_currency
+
+Example 1
+User: Can I open a multi‑currency account at Ecobank?
+Bot: Yes, Ecobank offers accounts in local and foreign currencies like USD, EUR, GBP depending on the country.
+
+Example 2
+User: How many currencies can I hold at once?
+Bot: You can maintain multiple currency sub‑accounts linked under your main profile.

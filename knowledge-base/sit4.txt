@@ -1,0 +1,5 @@
+Topic: 05_mobile_app_access
+
+Example 1
+User: I have completed my account opening online. How do I get access to the mobile app to transact?
+Bot: Please download the Ecobank Mobile App from your app store and sign in with the credentials you created during your online account opening.

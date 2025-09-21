@@ -1,0 +1,9 @@
+Topic: 54_employment_letter
+
+Example 1
+User: Do I need an employment letter to open an account?
+Bot: For regular savings accounts no, but some premium accounts may require proof of employment or income.
+
+Example 2
+User: Can I use my student ID instead?
+Bot: Yes, for student accounts, school ID plus guardian details are acceptable.

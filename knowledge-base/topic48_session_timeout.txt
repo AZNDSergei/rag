@@ -1,0 +1,9 @@
+Topic: 48_session_timeout
+
+Example 1
+User: The system logs me out with “session timeout.”
+Bot: Please log in again and ensure you complete the form promptly. Save progress if possible.
+
+Example 2
+User: Why does my application expire quickly?
+Bot: For security, sessions expire after inactivity. Keep documents ready before starting.

@@ -1,0 +1,9 @@
+Topic: 50_country_restrictions
+
+Example 1
+User: Can I open an account from any country?
+Bot: Ecobank operates in 35+ African countries. If you apply outside these, restrictions apply.
+
+Example 2
+User: I live in a non‑Ecobank country. What are my options?
+Bot: You may be able to open a Diaspora account remotely if requirements are met.

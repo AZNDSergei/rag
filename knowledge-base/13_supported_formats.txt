@@ -1,0 +1,161 @@
+Topic: 13_supported_formats
+
+Example 1
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 2
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 3
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 4
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 5
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 6
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 7
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 8
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 9
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 10
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 11
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 12
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 13
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 14
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 15
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 16
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 17
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 18
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 19
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 20
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 21
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 22
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 23
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 24
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 25
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 26
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 27
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 28
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 29
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 30
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 31
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 32
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 33
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 34
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 35
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 36
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 37
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 38
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 39
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.
+
+Example 40
+- Supported: PDF, JPEG/JPG, PNG.
+- Unsupported: GIF, TIFF, HEIC.

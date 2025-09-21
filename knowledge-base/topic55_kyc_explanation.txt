@@ -1,0 +1,9 @@
+Topic: 55_kyc_explanation
+
+Example 1
+User: What is KYC?
+Bot: KYC means Know Your Customer. It’s the process of verifying your identity and documents before account approval.
+
+Example 2
+User: Why is KYC important?
+Bot: It ensures compliance with anti‑fraud and anti‑money‑laundering regulations.

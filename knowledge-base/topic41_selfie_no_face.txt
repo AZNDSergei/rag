@@ -1,0 +1,9 @@
+Topic: 41_selfie_no_face
+
+Example 1
+User: The system says my selfie has no face detected. What should I do?
+Bot: Please retake the selfie in good lighting, make sure your whole face is visible, and avoid hats or glasses.
+
+Example 2
+User: My photo keeps being rejected as no face found.
+Bot: Try positioning your face directly in front of the camera, ensure the background is clear, and upload again.

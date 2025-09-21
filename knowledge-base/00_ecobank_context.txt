@@ -1,0 +1,6 @@
+Ecobank general context (plain text)
+
+Ecobank is a leading pan-African banking group (ETI), founded in 1985 and headquartered in Lomé, Togo.
+It operates in 30+ African countries with Nigeria and Ghana as key markets.
+Core services: retail, corporate, and digital banking. Strong focus on mobile/USSD, financial inclusion, and KYC/AML compliance.
+Customer support is available in English and French. This corpus targets typical chat interactions and account-opening issues.

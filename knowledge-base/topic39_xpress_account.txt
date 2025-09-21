@@ -1,0 +1,9 @@
+Topic: 39_xpress_account
+
+Example 1
+User: What is Ecobank Xpress Account?
+Bot: The Xpress Account is a lightweight, mobile‑friendly account type with lower fees and sometimes no minimum balance, ideal for customers who want simple access.
+
+Example 2
+User: Can I open Xpress account online?
+Bot: Yes, in many regions. You’ll fill the application form in app or USSD, upload required documents, then activate account once documents pass verification.

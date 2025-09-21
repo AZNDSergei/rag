@@ -1,0 +1,9 @@
+Topic: 36_diaspora_account
+
+Example 1
+User: Can someone living abroad open an Ecobank account?
+Bot: Yes. Ecobank offers a Diaspora Savings Account. Documents must be notarised abroad and forwarded, and some forms uploaded.
+
+Example 2
+User: What extra steps for Diaspora customers?
+Bot: You’ll need to fill the Diaspora application form, send original or notarised identity docs, proof of address, link BVN if existing or enroll.

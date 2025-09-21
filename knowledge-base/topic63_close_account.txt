@@ -1,0 +1,9 @@
+Topic: 63_close_account
+
+Example 1
+User: How do I close my Ecobank account?
+Bot: Visit your branch with a valid ID and fill a closure form.
+
+Example 2
+User: Can I close my account online?
+Bot: Currently closure must be requested at a branch for verification.

@@ -1,0 +1,12 @@
+[2025-09-21T11:12:50.027551] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.089116] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.185776] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.251426] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.346685] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.410638] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.507614] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.571280] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.675959] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.680579] ERROR: RecursionError('maximum recursion depth exceeded while calling a Python object')
+[2025-09-21T11:12:50.749549] INFO: Update started source=/app/knowledge-base out=/app/index_out
+[2025-09-21T11:12:50.910864] INFO: Update started source=/app/knowledge-base out=/app/index_out
